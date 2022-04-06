@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Xavier 👋
+## Hello! I'm Leonardo Xavier 👋
 
 - 💻📑  
 <div align="center">
