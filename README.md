@@ -4,7 +4,7 @@ Hi 👋 My name is Leonardo Xavier
 Software developer
 ------------------
 
-Technological formation in Awari School
+Technological formation in [Awari School ](https://awari.com.br/) 
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [leonardoxavier092@gmail.com](mailto:leonardoxavier092@gmail.com)
